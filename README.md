@@ -50,12 +50,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/SWI_Prolog.png/600px-SWI_Prolog.png" alt="Prolog" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Microprocessor_Icon.svg/512px-Microprocessor_Icon.svg.png" alt="Assembly Language" width="40" height="40"/>
-  </a>
 </p>
 
 ---
