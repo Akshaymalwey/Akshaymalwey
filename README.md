@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Malwey</h1>
-<h3 align="center">🚀 Frontend Developer | React Enthusiast | Open-Source Contributor</h3>
+<h3 align="center">🚀 Full-Stack Developer | React Enthusiast | Open-Source Contributor</h3>
 
 🎯 Passionate about building interactive and scalable web applications.  
 🔭 Currently working on **25 React projects** & contributing to **open-source (Electron, Plone)**.  
